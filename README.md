@@ -4,7 +4,7 @@ Created by Niels Fuchs, 2026. contact: niels.fuchs@uni-hamburg.de
 
 ## CMIP6 data
 
-Python code that loads and pre-processes CMIP6 sea ice model data on DKRZ HPC systems to obtain the pan-Arctic mean ice temperature
+Python code that loads and pre-processes CMIP6 sea ice model data on DKRZ HPC systems to obtain the pan-Arctic mean ice temperature. Much of the Jupyter-Notebook code is taken from the great [CMIP6 repository](https://github.com/QuentinRauschenbach/UHH-CMIP6-SIA/tree/main) of Quentin Rauschenbach.
 
 ## DMI satellite date
 
@@ -14,4 +14,4 @@ Python code to donwload and process the ice surface temperature product of DMI f
 
 Loads pre-processed data and produces multi-model mean Hovmoller diagram with CMIP6 historical, ssp245 and ssp370 runs. Also includes the DMI satellite data. 
 
-For more details please refer to the code or contact me
+For more details please refer to the code or contact me.
